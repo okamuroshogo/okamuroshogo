@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home -->
+  <url>
+    <loc>https://okamu.ro/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://okamu.ro/" />
+  </url>
+  <url>
+    <loc>https://okamu.ro/en</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh" />
+  </url>
+  <url>
+    <loc>https://okamu.ro/ko</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh" />
+  </url>
+  <url>
+    <loc>https://okamu.ro/zh</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh" />
+  </url>
+
+  <!-- Works -->
+  <url>
+    <loc>https://okamu.ro/works</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/works" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en/works" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko/works" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh/works" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://okamu.ro/works" />
+  </url>
+  <url>
+    <loc>https://okamu.ro/en/works</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/works" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en/works" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko/works" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh/works" />
+  </url>
+  <url>
+    <loc>https://okamu.ro/ko/works</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/works" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en/works" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko/works" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh/works" />
+  </url>
+  <url>
+    <loc>https://okamu.ro/zh/works</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/works" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en/works" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko/works" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh/works" />
+  </url>
+
+  <!-- Policies -->
+  <url>
+    <loc>https://okamu.ro/vision/policies</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://okamu.ro/vision/policies" />
+  </url>
+  <url>
+    <loc>https://okamu.ro/en/vision/policies</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh/vision/policies" />
+  </url>
+  <url>
+    <loc>https://okamu.ro/ko/vision/policies</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh/vision/policies" />
+  </url>
+  <url>
+    <loc>https://okamu.ro/zh/vision/policies</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://okamu.ro/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://okamu.ro/en/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://okamu.ro/ko/vision/policies" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://okamu.ro/zh/vision/policies" />
+  </url>
+
+</urlset>
