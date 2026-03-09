@@ -22,6 +22,7 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/favicon.png" type="image/png" />
         <meta name="msvalidate.01" content="D884C3980B509C1962CEE0036ACA0C68" />
+        <meta name="naver-site-verification" content="c86894eeccba1d952d72dd7af247d46e5bfb09c6" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
