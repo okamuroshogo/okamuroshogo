@@ -3,12 +3,21 @@ import './globals.css';
 import LangRedirect from '@/components/LangRedirect';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://okamu.ro'),
   title: '岡室庄悟（おかむー） | テクノロジーで日本の未来をアップデートする',
   description: '2度の起業で培った社会実装力と仲間を集める力で、チームみらいから日本の未来を創る。ノーギアス株式会社 CEO / no plan inc. 創業者。',
   openGraph: {
     title: '岡室庄悟（おかむー） | テクノロジーで日本の未来をアップデートする',
     description: '2度の起業で培った社会実装力で、チームみらいから日本の未来を創る。',
     siteName: 'okamu.ro',
+    type: 'website',
+    images: [{ url: '/profile.jpg', width: 1200, height: 1200, alt: '岡室庄悟（おかむー）' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: '岡室庄悟（おかむー） | テクノロジーで日本の未来をアップデートする',
+    description: '2度の起業で培った社会実装力で、チームみらいから日本の未来を創る。',
+    images: ['/profile.jpg'],
   },
 };
 

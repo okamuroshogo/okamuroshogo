@@ -15,6 +15,14 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
       title: dict.meta.ogTitle,
       description: dict.meta.ogDescription,
       siteName: 'okamu.ro',
+      type: 'website',
+      images: [{ url: '/profile.jpg', width: 1200, height: 1200, alt: dict.meta.ogTitle }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: dict.meta.ogTitle,
+      description: dict.meta.ogDescription,
+      images: ['/profile.jpg'],
     },
   };
 }
