@@ -93,6 +93,27 @@ const zh: Dictionary = {
     ],
     quoteAuthor: '— 冈室庄悟',
   },
+  socialImpact: {
+    label: 'Social Impact',
+    heading: '社会课题的挑战',
+    subheading: '以技术之力，让社会变得更好。',
+    items: [
+      {
+        title: 'Hello MyArea',
+        description: '通过游戏化方式解决日本年轻人政治参与率低这一社会课题的解决方案。',
+        badge: '社会课题',
+        url: 'https://hello-myarea.com',
+        image: '/activities/hello-myarea-og.png',
+      },
+      {
+        title: '驹场认真的领养会',
+        description: '为流浪猫保护团体无偿制作官网。以技术助力流浪猫活动的认知推广。',
+        badge: '无偿制作',
+        url: 'https://komaba-honki.okamu.dev/',
+        image: '/activities/komaba-honki-og.jpg',
+      },
+    ],
+  },
   philosophy: {
     label: 'Philosophy',
     heading: '我的驱动力与组织建设哲学',

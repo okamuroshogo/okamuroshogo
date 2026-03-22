@@ -46,6 +46,18 @@ export type Dictionary = {
     quoteParagraphs: string[];
     quoteAuthor: string;
   };
+  socialImpact: {
+    label: string;
+    heading: string;
+    subheading: string;
+    items: {
+      title: string;
+      description: string;
+      badge: string;
+      url: string;
+      image: string;
+    }[];
+  };
   philosophy: {
     label: string;
     heading: string;

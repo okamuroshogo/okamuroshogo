@@ -3,6 +3,7 @@ import Hero from '@/components/Hero';
 import Vision from '@/components/Vision';
 import TrackRecord from '@/components/TrackRecord';
 import Media from '@/components/Media';
+import SocialImpact from '@/components/SocialImpact';
 import Philosophy from '@/components/Philosophy';
 import AboutMe from '@/components/AboutMe';
 import JoinUs from '@/components/JoinUs';
@@ -19,6 +20,7 @@ export default function HomePage({ lang = 'ja' }: { lang?: string }) {
         <Vision dict={dict} lang={lang} />
         <TrackRecord dict={dict} lang={lang} />
         <Media dict={dict} />
+        <SocialImpact dict={dict} />
         <Philosophy dict={dict} />
         <AboutMe dict={dict} lang={lang} />
         <JoinUs dict={dict} lang={lang} />

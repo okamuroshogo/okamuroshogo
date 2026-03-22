@@ -93,6 +93,27 @@ const ja: Dictionary = {
     ],
     quoteAuthor: '— 岡室庄悟',
   },
+  socialImpact: {
+    label: 'Social Impact',
+    heading: '社会課題への取り組み',
+    subheading: 'テクノロジーの力で、社会をもっと良くする。',
+    items: [
+      {
+        title: 'Hello MyArea',
+        description: '日本の若者の政治参加率の低さという社会課題に、ゲーミフィケーションで取り組むソリューション。',
+        badge: '社会課題',
+        url: 'https://hello-myarea.com',
+        image: '/activities/hello-myarea-og.png',
+      },
+      {
+        title: '駒場本気の譲渡会',
+        description: '保護猫団体へ無償でHP制作。テクノロジーで保護猫活動の認知拡大に貢献。',
+        badge: '無償制作',
+        url: 'https://komaba-honki.okamu.dev/',
+        image: '/activities/komaba-honki-og.jpg',
+      },
+    ],
+  },
   philosophy: {
     label: 'Philosophy',
     heading: '私の原動力と、組織づくりの哲学',

@@ -93,6 +93,27 @@ const ko: Dictionary = {
     ],
     quoteAuthor: '— 오카무로 쇼고',
   },
+  socialImpact: {
+    label: 'Social Impact',
+    heading: '사회 과제에 대한 도전',
+    subheading: '기술의 힘으로 사회를 더 좋게 만듭니다.',
+    items: [
+      {
+        title: 'Hello MyArea',
+        description: '일본 청년층의 낮은 정치 참여율이라는 사회 과제를 게이미피케이션으로 해결하는 솔루션.',
+        badge: '사회 과제',
+        url: 'https://hello-myarea.com',
+        image: '/activities/hello-myarea-og.png',
+      },
+      {
+        title: '코마바 본기의 입양회',
+        description: '유기묘 보호 단체에 무상으로 홈페이지 제작. 기술로 유기묘 활동의 인지 확대에 기여.',
+        badge: '무상 제작',
+        url: 'https://komaba-honki.okamu.dev/',
+        image: '/activities/komaba-honki-og.jpg',
+      },
+    ],
+  },
   philosophy: {
     label: 'Philosophy',
     heading: '나의 원동력과 조직 만들기의 철학',

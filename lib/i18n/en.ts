@@ -93,6 +93,27 @@ const en: Dictionary = {
     ],
     quoteAuthor: '\u2014 Shogo Okamuro',
   },
+  socialImpact: {
+    label: 'Social Impact',
+    heading: 'Tackling Social Challenges',
+    subheading: 'Using technology to make society better.',
+    items: [
+      {
+        title: 'Hello MyArea',
+        description: 'A gamification-based solution addressing low political participation among Japanese youth.',
+        badge: 'Social Issue',
+        url: 'https://hello-myarea.com',
+        image: '/activities/hello-myarea-og.png',
+      },
+      {
+        title: 'Komaba Honki Cat Adoption',
+        description: 'Pro bono website for a cat rescue organization. Contributing to awareness and adoption through technology.',
+        badge: 'Pro Bono',
+        url: 'https://komaba-honki.okamu.dev/',
+        image: '/activities/komaba-honki-og.jpg',
+      },
+    ],
+  },
   philosophy: {
     label: 'Philosophy',
     heading: 'What drives me and my philosophy of building organizations',
