@@ -216,6 +216,24 @@ const ko: Dictionary = {
       { emoji: '🏆', text: 'JPHACKS 2015 — 『LimitedSpace』 AJS상 / 『Tsucomu』 파이널 노미네이트' },
       { emoji: '🎓', text: '규슈공업대학 학생 표창' },
     ],
+    activitiesTitle: '활동 실적',
+    activitiesSubtitle: '기술의 힘으로 사회 과제 해결에 힘쓰고 있습니다.',
+    activities: [
+      {
+        title: 'Hello MyArea',
+        description: '일본 청년층의 낮은 정치 참여율이라는 사회 과제를 게이미피케이션으로 해결하는 솔루션. 가상 국가 시뮬레이션을 통해 정치와 사회에 대한 관심을 즐기며 높입니다.',
+        badge: '사회 과제',
+        url: 'https://hello-myarea.com',
+        image: '/activities/hello-myarea-og.png',
+      },
+      {
+        title: '코마바 본기의 입양회',
+        description: '유기묘 보호 단체 「코마바 본기의 입양회」에 무상으로 홈페이지를 제작했습니다. 기술의 힘으로 유기묘 활동의 인지 확대와 입양 촉진에 기여합니다.',
+        badge: '무상 제작',
+        url: 'https://komaba-honki.okamu.dev/',
+        image: '/activities/komaba-honki-og.jpg',
+      },
+    ],
     allTitle: '전체 프로덕트 목록',
     allSubtitle: '지금까지 만든 50개 이상의 프로덕트',
     categories: {

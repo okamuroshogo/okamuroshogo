@@ -216,6 +216,24 @@ const en: Dictionary = {
       { emoji: '🏆', text: 'JPHACKS 2015 \u2014 LimitedSpace AJS Award / Tsucomu Final Nominee' },
       { emoji: '🎓', text: 'Kyushu Institute of Technology Student Award' },
     ],
+    activitiesTitle: 'Social Impact',
+    activitiesSubtitle: 'Leveraging technology to tackle social challenges.',
+    activities: [
+      {
+        title: 'Hello MyArea',
+        description: 'A gamification-based solution addressing the low political participation rate among young people in Japan. Through a virtual nation simulation, it fosters interest in politics and society in an engaging way.',
+        badge: 'Social Issue',
+        url: 'https://hello-myarea.com',
+        image: '/activities/hello-myarea-og.png',
+      },
+      {
+        title: 'Komaba Honki Cat Adoption',
+        description: 'Pro bono website development for "Komaba Honki no Jotokai," a cat rescue organization. Contributing to raising awareness and promoting cat adoptions through technology.',
+        badge: 'Pro Bono',
+        url: 'https://komaba-honki.okamu.dev/',
+        image: '/activities/komaba-honki-og.jpg',
+      },
+    ],
     allTitle: 'All Products',
     allSubtitle: 'Over 50 products built throughout my career',
     categories: {

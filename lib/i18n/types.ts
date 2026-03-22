@@ -84,6 +84,15 @@ export type Dictionary = {
     studentSubtitle: string;
     studentCircle: string;
     studentAwards: { emoji: string; text: string }[];
+    activitiesTitle: string;
+    activitiesSubtitle: string;
+    activities: {
+      title: string;
+      description: string;
+      badge: string;
+      url: string;
+      image: string;
+    }[];
     allTitle: string;
     allSubtitle: string;
     categories: Record<string, string>;

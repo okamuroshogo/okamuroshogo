@@ -216,6 +216,24 @@ const ja: Dictionary = {
       { emoji: '🏆', text: 'JPHACKS 2015 — 『LimitedSpace』AJS賞 / 『Tsucomu』ファイナルノミネート' },
       { emoji: '🎓', text: '九州工業大学 学生表彰' },
     ],
+    activitiesTitle: '活動実績',
+    activitiesSubtitle: 'テクノロジーの力で社会課題の解決に取り組んでいます。',
+    activities: [
+      {
+        title: 'Hello MyArea',
+        description: '日本の若者の政治参加率の低さという社会課題に、ゲーミフィケーションで取り組むソリューション。仮想国家シミュレーションを通じて、政治や社会への関心を楽しみながら高める。',
+        badge: '社会課題',
+        url: 'https://hello-myarea.com',
+        image: '/activities/hello-myarea-og.png',
+      },
+      {
+        title: '駒場本気の譲渡会',
+        description: '保護猫団体「駒場本気の譲渡会」へ無償でHP制作を行いました。テクノロジーの力で保護猫活動の認知拡大と譲渡促進に貢献。',
+        badge: '無償制作',
+        url: 'https://komaba-honki.okamu.dev/',
+        image: '/activities/komaba-honki-og.jpg',
+      },
+    ],
     allTitle: '全プロダクト一覧',
     allSubtitle: 'これまでに手がけた50以上のプロダクト',
     categories: {

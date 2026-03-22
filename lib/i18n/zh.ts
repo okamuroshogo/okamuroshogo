@@ -216,6 +216,24 @@ const zh: Dictionary = {
       { emoji: '🏆', text: 'JPHACKS 2015 — 『LimitedSpace』AJS奖 / 『Tsucomu』入围决赛' },
       { emoji: '🎓', text: '九州工业大学 学生表彰' },
     ],
+    activitiesTitle: '社会贡献实绩',
+    activitiesSubtitle: '以技术之力致力于解决社会课题。',
+    activities: [
+      {
+        title: 'Hello MyArea',
+        description: '通过游戏化方式解决日本年轻人政治参与率低这一社会课题的解决方案。通过虚拟国家模拟，以有趣的方式提升对政治和社会的关注。',
+        badge: '社会课题',
+        url: 'https://hello-myarea.com',
+        image: '/activities/hello-myarea-og.png',
+      },
+      {
+        title: '驹场认真的领养会',
+        description: '为流浪猫保护团体「驹场认真的领养会」无偿制作官网。以技术之力助力流浪猫活动的认知推广与领养促进。',
+        badge: '无偿制作',
+        url: 'https://komaba-honki.okamu.dev/',
+        image: '/activities/komaba-honki-og.jpg',
+      },
+    ],
     allTitle: '全部产品列表',
     allSubtitle: '迄今为止打造的50多个产品',
     categories: {

@@ -192,8 +192,44 @@ export default function WorksPage({ lang = 'ja' }: { lang?: string }) {
             </div>
           </FadeIn>
 
-          {/* All Products */}
+          {/* Social Impact / Activities */}
           <FadeIn delay={250}>
+            <div className="mt-12 sm:mt-16">
+              <h2 className="text-xl sm:text-2xl font-extrabold text-slate-900 mb-2">{t.activitiesTitle}</h2>
+              <p className="text-slate-500 mb-8">{t.activitiesSubtitle}</p>
+              <div className="grid sm:grid-cols-2 gap-6">
+                {t.activities.map((activity, i) => (
+                  <a
+                    key={i}
+                    href={activity.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group card overflow-hidden hover:border-mirai-200 hover:shadow-md transition-all"
+                  >
+                    <div className="aspect-[1200/630] w-full overflow-hidden bg-slate-100">
+                      <Image
+                        src={activity.image}
+                        alt={activity.title}
+                        width={1200}
+                        height={630}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      />
+                    </div>
+                    <div className="p-5 sm:p-6">
+                      <span className="inline-block px-3 py-1 bg-emerald-100 text-emerald-700 text-xs font-bold rounded-full mb-3">
+                        {activity.badge}
+                      </span>
+                      <h3 className="text-lg font-bold text-slate-900 mb-2">{activity.title}</h3>
+                      <p className="text-sm text-slate-600 leading-relaxed">{activity.description}</p>
+                    </div>
+                  </a>
+                ))}
+              </div>
+            </div>
+          </FadeIn>
+
+          {/* All Products */}
+          <FadeIn delay={300}>
             <div className="mt-12 sm:mt-16">
               <h2 className="text-xl sm:text-2xl font-extrabold text-slate-900 mb-2">{t.allTitle}</h2>
               <p className="text-slate-500 mb-8">{t.allSubtitle}</p>
