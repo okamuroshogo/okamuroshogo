@@ -9,24 +9,6 @@ Web3・AIなど最先端テクノロジーを社会実装する精鋭クリエ�
 女優・創作あーちすと[のん](https://prtimes.jp/main/html/rd/p/000000009.000057625.html)とのNFTコミュニティ「ReCone」コラボや、コニカミノルタのオンラインマニュアルSaaS「COCOMITE」技術顧問など、多彩な領域で実績を重ねる。
 2025年にはAI動画生成に特化した**ノーギアス株式会社**を創業。
 
----
-
-## GawainAI — AI動画生成プラットフォーム
-
-<img src="https://gawain.nogeass.com/ogp.jpg?v=20251122" alt="GawainAI" width="600" />
-
-AIキャラクターが商品をプロモーションする動画を自動生成するサービス。
-
-- **画像1枚 → 10秒アニメCM** を自動制作
-- 構成・ナレーション・BGMをAIが最適化
-- テンプレ当て込みではない**カスタムメイド**の動画生成
-- ブランドの商品構造を保持した「世界に一つだけの特別制作」
-
-`Shopify` `TikTok Shop` `EC All`
-
-制作コストを **1/100** に。
-
-[gawainai.com](https://gawainai.com) / [法人向けプラン](https://gawain.nogeass.com/enterprise)
 
 ---
 
